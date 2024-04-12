@@ -2,9 +2,198 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2024/04/09/hello-world/</loc>
+    <loc>https://mortyzhaoy.github.io/package.json</loc>
     
-    <lastmod>2024-04-09</lastmod>
+    <lastmod>2024-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mortyzhaoy.github.io/json/npm-owo-twikoo.json</loc>
+    
+    <lastmod>2024-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mortyzhaoy.github.io/json/twikoo.json</loc>
+    
+    <lastmod>2024-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mortyzhaoy.github.io/music/index.html</loc>
+    
+    <lastmod>2024-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mortyzhaoy.github.io/link/index.html</loc>
+    
+    <lastmod>2024-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mortyzhaoy.github.io/room/index.html</loc>
+    
+    <lastmod>2024-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mortyzhaoy.github.io/tags/index.html</loc>
+    
+    <lastmod>2024-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mortyzhaoy.github.io/thousand/index.html</loc>
+    
+    <lastmod>2024-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mortyzhaoy.github.io/updata/index.html</loc>
+    
+    <lastmod>2024-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mortyzhaoy.github.io/wallpaper/index.html</loc>
+    
+    <lastmod>2024-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mortyzhaoy.github.io/wechat/index.html</loc>
+    
+    <lastmod>2024-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mortyzhaoy.github.io/wordScenery/index.html</loc>
+    
+    <lastmod>2024-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mortyzhaoy.github.io/2024/04/12/hello-world/</loc>
+    
+    <lastmod>2024-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mortyzhaoy.github.io/about/index.html</loc>
+    
+    <lastmod>2024-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mortyzhaoy.github.io/air-conditioner/index.html</loc>
+    
+    <lastmod>2024-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mortyzhaoy.github.io/album/index.html</loc>
+    
+    <lastmod>2024-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mortyzhaoy.github.io/dailyPhoto/index.html</loc>
+    
+    <lastmod>2024-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mortyzhaoy.github.io/categories/index.html</loc>
+    
+    <lastmod>2024-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mortyzhaoy.github.io/essay/index.html</loc>
+    
+    <lastmod>2024-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mortyzhaoy.github.io/fcircle/index.html</loc>
+    
+    <lastmod>2024-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mortyzhaoy.github.io/json/album.json</loc>
+    
+    <lastmod>2024-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mortyzhaoy.github.io/json/music.json</loc>
+    
+    <lastmod>2024-04-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12,8 +201,8 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2024-04-09</lastmod>
+    <loc>https://mortyzhaoy.github.io/</loc>
+    <lastmod>2024-04-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
