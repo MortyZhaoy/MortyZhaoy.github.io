@@ -74,7 +74,7 @@ gtag('config', 'G-S7VXCWR2TF');
   isHome: false,
   isHighlightShrink: false,
   isToc: false,
-  postUpdate: '2024-04-15 19:05:54',
+  postUpdate: '2024-04-15 19:17:49',
   postMainColor: '',
 }</script><noscript><style type="text/css">
   #nav {
@@ -801,7 +801,7 @@ queueMicrotask(() => {
 
   const getComment = async () => {
     try {
-      const res = await fetch('https://waline-g5zs2gsmm-mortyzhaoys-projects.vercel.app/api/comment?type=recent&count=6', { method: 'GET' })
+      const res = await fetch('https://waline-chi-ivory.vercel.app/api/comment?type=recent&count=6', { method: 'GET' })
       const result = await res.json()
       const walineArray = result.data.map(e => {
         return {
