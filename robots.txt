@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://MortyZhaoy.github.io/sitemap.xml
