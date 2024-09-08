@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Morty's Blog</title><link>https://MortyZhaoy.github.io/tags/blog/</link><description>Recent content in Blog on Morty's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>morty.zhaoy@gmail.com (Morty Zhao)</managingEditor><webMaster>morty.zhaoy@gmail.com (Morty Zhao)</webMaster><copyright>© 2024 Morty Zhao</copyright><lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://MortyZhaoy.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo + Blowfish + Github Pages to build a personal blog</title><link>https://MortyZhaoy.github.io/posts/class/self/blog/github_pages_blog_build/</link><pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate><author>morty.zhaoy@gmail.com (Morty Zhao)</author><guid>https://MortyZhaoy.github.io/posts/class/self/blog/github_pages_blog_build/</guid><description>&lt;h2 class="relative group">Project Dependencies
+&lt;div id="project-dependencies" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#project-dependencies" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Farmework: &lt;a href="https://gohugo.io/" target="_blank">hugo&lt;/a>&lt;/p></description></item></channel></rss>

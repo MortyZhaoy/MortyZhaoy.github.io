@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>帖子 on 莫蒂 的 博客</title><link>https://MortyZhaoy.github.io/zh-cn/posts/</link><description>Recent content in 帖子 on 莫蒂 的 博客</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>morty.zhaoy@gmail.com (莫蒂 赵)</managingEditor><webMaster>morty.zhaoy@gmail.com (莫蒂 赵)</webMaster><copyright>© 2024 莫蒂 赵</copyright><atom:link href="https://MortyZhaoy.github.io/zh-cn/posts/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>帖子 on 莫蒂 的 博客</title><link>https://MortyZhaoy.github.io/zh-cn/posts/</link><description>Recent content in 帖子 on 莫蒂 的 博客</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>morty.zhaoy@gmail.com (莫蒂 赵)</managingEditor><webMaster>morty.zhaoy@gmail.com (莫蒂 赵)</webMaster><copyright>© 2024 莫蒂 赵</copyright><lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://MortyZhaoy.github.io/zh-cn/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo + Blowfish + Github Pages 搭建个人博客</title><link>https://MortyZhaoy.github.io/zh-cn/posts/class/self/blog/github_pages_blog_build/</link><pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate><author>morty.zhaoy@gmail.com (莫蒂 赵)</author><guid>https://MortyZhaoy.github.io/zh-cn/posts/class/self/blog/github_pages_blog_build/</guid><description>&lt;h2 class="relative group">工程依赖
+&lt;div id="%E5%B7%A5%E7%A8%8B%E4%BE%9D%E8%B5%96" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%B7%A5%E7%A8%8B%E4%BE%9D%E8%B5%96" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Farmework: &lt;a href="https://gohugo.io/" target="_blank">hugo&lt;/a>&lt;/p></description></item></channel></rss>
